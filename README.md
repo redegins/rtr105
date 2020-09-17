@@ -1,7 +1,7 @@
 # rtr105
 Datormācība (pamatkurss)
 
-# Pirmā lekcija
+# Pirmā lekcija 17.09.2020
 whoami
 who
 last
@@ -10,3 +10,5 @@ user
 pwd
 history
 ctrl+f1
+
+# Otrā lekcija
