@@ -134,3 +134,51 @@ whereis ls
    96  ls EFG/c.txt
    97  cat EFG/c.txt
    98  history
+
+
+
+#   Ceturtā lekcija 01.10.2020.
+
+
+              3  pwd
+    4  $?
+    5  echo $?
+    6  ls -lt
+    7  echo $?
+    8  pwd
+    9  nano a.sh
+   10  ls -lt
+   11  .a/a.sh
+   12  ./a.sh
+   13  echo $?  
+   14  /b/.sh
+   15  echo$?
+   16  echo $?
+   17  git clone https://github.com/redegins/rtr105
+   18  ls -lt
+   19  rm a.sh
+   20  ls -lt
+                        3  pwd
+    4  $?
+    5  echo $?
+    6  ls -lt
+    7  echo $?
+    8  pwd
+    9  nano a.sh
+   10  ls -lt
+   11  .a/a.sh
+   12  ./a.sh
+   13  echo $?
+   14  /b/.sh
+   15  echo$?
+   16  echo $?
+   17  git clone https://github.com/tatusmartix/EDIBO
+   18  ls -lt
+   19  rm a.sh
+   20  ls -lt
+   21  cd rtr105
+   29  ls -lt
+   30  ls
+   31  cat README.md 
+   32  history
+                                                                                                                       
